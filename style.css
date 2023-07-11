@@ -1,0 +1,11 @@
+.FamilyNames{
+    width: 900px;
+    background-color: blue;
+    color: white;
+}
+#Camera , #Display{
+    border-style: dashed;
+    border-color: blue;
+    height: 500px;
+    width: 500px;
+}
